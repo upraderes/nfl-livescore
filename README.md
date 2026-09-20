@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# NFL Live Score
+
+## Screenshots
+
+![Screen 1](./Screen1.png)
+
+![Screen 2](./Screen2.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
